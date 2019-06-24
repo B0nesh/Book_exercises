@@ -1,1 +1,1 @@
-Solutions of the different books I've readed.
+Solutions of the different books I've read.
