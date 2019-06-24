@@ -6,8 +6,6 @@ sep = 4
 
 lista = []
 
-texto = ''
-
 iterations = len(text)//4
 
 ciphered = ''
